@@ -1,5 +1,5 @@
 <img align="center" width="100%" height="400px" alt="Masterheader" src="https://i.gifer.com/origin/0e/0e01e56732d4fae6e63f9fc4beeaded9.gif">
-<h1 align="center">Hi there 👋,</h1>
+<h1 align="center">👋 Hi there,</h1>
 
 *Hi, I’m Christian. I’m an enthusiastic Full-stack web developer with two years of hands-on working experience in creating user-friendly, unique, elegant, and visually appealing applications that can be used as platforms for engaging content or as stand-alone pieces of art. I have built over fifteen market-ready projects including my high school's official website that connected the school staff and the public. With only one year after its creation, the number of unnecessary school visits had reduced by 78%, and the time wasted on foreign visits had reduced by 82%. Moreover, it also increased public awareness about the school, with the school receiving around 16% more students than it did the year before. I am currently expanding my knowledge base in an online coding boot camp known as Microverse where I spend 40+ hours per week coding and building projects in a remote environment with other developers from all corners of the world.*
 
