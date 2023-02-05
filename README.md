@@ -1,6 +1,8 @@
 <img align="center" width="100%" height="400px" alt="Masterheader" src="https://i.gifer.com/origin/0e/0e01e56732d4fae6e63f9fc4beeaded9.gif">
-<h1 align="center">Hello there, I'm Christian Iradukunda Byiringiro</h1>
-<h3 align="center">A passionate full-stack developer from Rwanda.</h3>
+<h1 align="center">Hi there,</h1>
+
+*Hi, I’m Christian. I’m an enthusiastic Full-stack web developer with two years of hands-on working experience in creating user-friendly, unique, elegant, and visually appealing applications that can be used as platforms for engaging content or as stand-alone pieces of art. I have built over fifteen market-ready projects including my high school's official website that connected the school staff and the public. With only one year after its creation, the number of unnecessary school visits had reduced by 78%, and the time wasted on foreign visits had reduced by 82%. Moreover, it also increased public awareness about the school, with the school receiving around 16% more students than it did the year before. I am currently expanding my knowledge base in an online coding boot camp known as Microverse where I spend 40+ hours per week coding and building projects in a remote environment with other developers from all corners of the world.*
+
 <img align="right" width="400px" alt="coding" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christianib003&label=Profile%20views&color=0e75b6&style=flat" alt="christianib003" /> </p>
@@ -18,7 +20,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1LvxOZkimBAGxjNfF5IMVQf1ZhdsBdEC8Xky5c6zAMGg/edit?usp=sharing](https://docs.google.com/document/d/1LvxOZkimBAGxjNfF5IMVQf1ZhdsBdEC8Xky5c6zAMGg/edit?usp=sharing)
 
-- ⚡ Fun fact **My favorite tvShow is Start up.**
+- ⚡ Fun fact **My favorite tvShow is a Korean drama called Start-Up.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
